@@ -52,7 +52,6 @@ Requires Node.js and pnpm.
 ```
 pnpm i
 pnpm build
-
 ```
 
 ## License
