@@ -76,13 +76,15 @@
 
 ##### 
 
-## \### Manual install
+## \## Manual install
 
 ##### 
 
 ##### If you'd rather not use developer mode, extract the zip into `\~/homebrew/plugins/` in Desktop Mode (needs `sudo`), then run `sudo systemctl restart plugin\_loader`.
 
-##### \## Usage
+
+
+## \## Usage
 
 ##### 
 
@@ -90,7 +92,7 @@
 
 ##### 
 
-##### \## Building from source
+## \## Building from source
 
 ##### 
 
@@ -108,7 +110,7 @@
 
 ##### 
 
-##### \## License
+## \## License
 
 ##### 
 
