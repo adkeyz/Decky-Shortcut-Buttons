@@ -34,13 +34,19 @@
 
 ##### !\[Decky menu](screenshots/deckymenu.jpg)
 
+##### 
+
 ##### !\[Shortcut Buttons](screenshots/shortcutbuttons.jpg)
+
+##### 
 
 ##### !\[Create New Shortcut](screenshots/createnewshortcut.jpg)
 
+##### 
+
 ##### !\[Select Key](screenshots/selectkey.jpg)
 
-##### 
+
 
 ## \## Installation
 
