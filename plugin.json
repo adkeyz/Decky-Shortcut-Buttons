@@ -1,0 +1,11 @@
+{
+  "name": "Shortcut Buttons",
+  "author": "You",
+  "flags": ["root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["utility"],
+    "description": "Customisable keyboard shortcut buttons for the Quick Access Menu.",
+    "image": ""
+  }
+}
